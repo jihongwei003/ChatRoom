@@ -1,0 +1,61 @@
+ERROR main Test -  error 
+ERROR main Test -  error 
+2015-04-25 21:17:45,373 ERROR [main] Test -  error 
+2015-04-25 21:18:24,284 INFO [main] LogInvoHandler - ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:18:24,284 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:18:24,284 INFO [main] Test - --------------------------------------
+2015-04-25 21:18:24,284 INFO [main] LogInvoHandler - ____invoke method: work; args: null; return: work success
+2015-04-25 21:18:24,284 INFO [main] LogInvoHandler - ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:18:24,284 INFO [main] Test - --------------------------------------
+2015-04-25 21:18:24,284 INFO [main] LogInvoHandler - ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:18:24,284 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:18:24,284 ERROR [main] Test -  error 
+2015-04-25 21:24:51,360 INFO [main] LogInvoHandler - ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:24:51,360 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:24:51,360 INFO [main] LogInvoHandler - ____invoke method: work; args: null; return: work success
+2015-04-25 21:24:51,360 INFO [main] LogInvoHandler - ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:24:51,360 INFO [main] LogInvoHandler - ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:24:51,360 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:24:51,360 ERROR [main] Test -  error 
+2015-04-25 21:38:39,257 INFO [main] LogInvoHandler - ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:38:39,257 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:38:39,273 INFO [main] LogInvoHandler - ____invoke method: work; args: null; return: work success
+2015-04-25 21:38:39,273 INFO [main] LogInvoHandler - ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:38:39,273 INFO [main] LogInvoHandler - ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:38:39,273 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:38:39,273 ERROR [main] Test -  error 
+2015-04-25 21:40:16 INFO [main] LogInvoHandler - ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:40:16 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:40:16 INFO [main] LogInvoHandler - ____invoke method: work; args: null; return: work success
+2015-04-25 21:40:16 INFO [main] LogInvoHandler - ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:40:16 INFO [main] LogInvoHandler - ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:40:16 INFO [main] LogInvoHandler - ____invoke method: find; args: null; return: find success
+2015-04-25 21:40:16 ERROR [main] Test -  error 
+2015-04-25 21:42:07 INFO  [main] LogInvoHandler : ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:42:07 INFO  [main] LogInvoHandler : ____invoke method: find; args: null; return: find success
+2015-04-25 21:42:07 INFO  [main] LogInvoHandler : ____invoke method: work; args: null; return: work success
+2015-04-25 21:42:07 INFO  [main] LogInvoHandler : ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:42:07 INFO  [main] LogInvoHandler : ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:42:07 INFO  [main] LogInvoHandler : ____invoke method: find; args: null; return: find success
+2015-04-25 21:42:07 ERROR [main] Test :  error 
+2015-04-25 21:44:06 INFO  [main] LogInvoHandler :: ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:44:06 INFO  [main] LogInvoHandler :: ____invoke method: find; args: null; return: find success
+2015-04-25 21:44:06 INFO  [main] LogInvoHandler :: ____invoke method: work; args: null; return: work success
+2015-04-25 21:44:06 INFO  [main] LogInvoHandler :: ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:44:06 INFO  [main] LogInvoHandler :: ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:44:06 INFO  [main] LogInvoHandler :: ____invoke method: find; args: null; return: find success
+2015-04-25 21:44:06 ERROR [main] Test ::  error 
+2015-04-25 21:45:28 INFO  [main] LogInvoHandler :: __中文行吗__invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:45:28 INFO  [main] LogInvoHandler :: __中文行吗__invoke method: find; args: null; return: find success
+2015-04-25 21:45:28 INFO  [main] LogInvoHandler :: __中文行吗__invoke method: work; args: null; return: work success
+2015-04-25 21:45:28 INFO  [main] LogInvoHandler :: __中文行吗__invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:45:28 INFO  [main] LogInvoHandler :: __中文行吗__invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:45:28 INFO  [main] LogInvoHandler :: __中文行吗__invoke method: find; args: null; return: find success
+2015-04-25 21:45:28 ERROR [main] Test ::  error 
+2015-04-25 21:47:02 INFO  [main] LogInvoHandler :: ____invoke method: login; args: [zhangsan, 123456]; return: login success
+2015-04-25 21:47:02 INFO  [main] LogInvoHandler :: ____invoke method: find; args: null; return: find success
+2015-04-25 21:47:02 INFO  [main] LogInvoHandler :: ____invoke method: work; args: null; return: work success
+2015-04-25 21:47:02 INFO  [main] LogInvoHandler :: ____invoke method: sleep; args: null; return: sleep success
+2015-04-25 21:47:02 INFO  [main] LogInvoHandler :: ____invoke method: login; args: [lisi, 654321]; return: login success
+2015-04-25 21:47:02 INFO  [main] LogInvoHandler :: ____invoke method: find; args: null; return: find success
+2015-04-25 21:47:02 ERROR [main] Test ::  error 
