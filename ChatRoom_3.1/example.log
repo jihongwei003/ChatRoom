@@ -1,0 +1,765 @@
+2015-04-26 09:38:24 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 09:38:24 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 09:38:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 09:38:26 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 09:38:40 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 09:38:40 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 09:38:45 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-26 09:38:45 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-26 09:38:55 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"¶Ëµ½¶Ë"}}]; return: null
+2015-04-26 09:38:55 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"¶Ëµ½¶Ë"}}
+2015-04-26 09:39:02 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}]; return: null
+2015-04-26 09:39:02 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}
+2015-04-26 09:40:27 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 09:40:27 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 09:40:31 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"·½·¨"}}]; return: null
+2015-04-26 09:40:31 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"·½·¨"}}
+2015-04-26 09:40:44 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 09:40:44 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 09:40:50 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-26 09:40:50 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-26 09:40:58 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}]; return: null
+2015-04-26 09:40:58 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}
+2015-04-26 09:41:05 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}]; return: null
+2015-04-26 09:41:05 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}
+2015-04-26 09:41:12 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}]; return: null
+2015-04-26 09:41:12 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}
+2015-04-26 09:41:21 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}]; return: null
+2015-04-26 09:41:21 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}
+2015-04-26 09:41:24 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}]; return: null
+2015-04-26 09:41:24 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò"}}
+2015-04-26 09:41:28 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"ËÆµÄ"}}]; return: null
+2015-04-26 09:41:28 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"ËÆµÄ"}}
+2015-04-26 09:41:33 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 09:41:33 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 09:41:37 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 09:41:37 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 09:55:54 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 09:55:54 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 09:56:02 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 09:56:02 INFO  [Thread-0       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 11:26:33 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 11:26:33 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 11:26:36 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 11:28:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 11:28:08 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 11:28:10 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 11:33:52 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 11:33:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 11:33:54 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 11:46:35 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 11:46:35 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 11:46:38 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 11:48:32 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 11:48:32 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 11:48:34 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 11:52:14 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 11:52:14 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:29:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:29:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:29:16 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 13:32:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:32:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:32:34 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 13:35:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:35:45 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:37:51 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:37:51 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:37:54 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 13:40:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:40:44 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:42:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:42:37 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:46:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:46:05 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:51:09 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:51:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:53:06 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:53:06 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:53:38 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 13:53:38 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:54:39 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 13:54:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:42:12 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:42:12 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:42:23 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:42:23 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:42:33 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"²î´í"}}]; return: null
+2015-04-26 22:42:33 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"²î´í"}}
+2015-04-26 22:42:44 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÃµ½¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:42:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÃµ½¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:42:47 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÃµ½¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-26 22:42:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÃµ½¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-26 22:42:55 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÃµ½¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 22:42:55 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÃµ½¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 22:43:00 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 22:43:00 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 22:44:47 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:44:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:44:49 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:44:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:44:53 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¸÷¸ö"}}]; return: null
+2015-04-26 22:44:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¸÷¸ö"}}
+2015-04-26 22:45:02 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:45:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:45:05 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"¶Ëµ½¶Ë"}}]; return: null
+2015-04-26 22:45:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"¶Ëµ½¶Ë"}}
+2015-04-26 22:45:07 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"·¢Ê¿´ó·ò"}}]; return: null
+2015-04-26 22:45:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"·¢Ê¿´ó·ò"}}
+2015-04-26 22:45:15 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ê¿´ó·ò¼ªºêÎ°","words":"´óÊ¦¸µÊ¿´ó·ò"}}]; return: null
+2015-04-26 22:45:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ê¿´ó·ò¼ªºêÎ°","words":"´óÊ¦¸µÊ¿´ó·ò"}}
+2015-04-26 22:45:20 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 22:45:20 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ê¿´ó·ò¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 22:45:23 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 22:45:23 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 22:45:31 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:45:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:45:39 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:45:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:45:41 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-26 22:45:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-26 22:45:45 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"´ò·¢Ê¿´ó·ò"}}]; return: null
+2015-04-26 22:45:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"´ò·¢Ê¿´ó·ò"}}
+2015-04-26 22:45:51 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"µÄ¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-26 22:45:51 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"µÄ¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-26 22:46:04 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-26 22:46:04 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-26 22:46:05 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-26 22:46:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"µÄ¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-27 08:16:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-27 08:16:29 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-27 08:16:31 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-27 08:16:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-27 11:11:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-27 11:11:41 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-27 11:11:44 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-27 11:11:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-27 11:11:47 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-27 11:11:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-27 11:11:55 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-27 11:11:55 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-27 11:11:57 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":""}}]; return: null
+2015-04-27 11:11:57 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":""}}
+2015-04-27 11:11:58 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-27 11:11:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-27 11:12:04 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"ËÙ¶È¼ªºêÎ°","words":"Ê¿´ó·ò"}}]; return: null
+2015-04-27 11:12:04 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"ËÙ¶È¼ªºêÎ°","words":"Ê¿´ó·ò"}}
+2015-04-27 11:12:06 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"Ê¿´ó·ò"}}]; return: null
+2015-04-27 11:12:06 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"Ê¿´ó·ò"}}
+2015-04-27 11:12:14 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-27 11:12:14 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-27 11:12:18 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-27 11:12:18 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"ËÙ¶È¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-27 11:12:20 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-27 11:12:20 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 14:22:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":null,"msgNum":"1","receiver":null,"words":null}}
+2015-04-28 14:22:49 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":null,"msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 14:22:55 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":null,"msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 14:24:21 INFO  [pool-1-thread-7] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":null,"msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 14:24:28 INFO  [pool-1-thread-7] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":null,"msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 14:24:43 INFO  [pool-1-thread-7] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":null,"msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 14:24:44 INFO  [pool-1-thread-7] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":null,"msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:20 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:34 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:34 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:34 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:34 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:35 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:37 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:38 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:38 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:38 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:45 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:45 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:36:46 INFO  [pool-1-thread-9] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"5","receiver":null,"words":null}}]; return: null
+2015-04-28 14:37:49 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:37:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}
+2015-04-28 14:38:11 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 14:41:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}
+2015-04-28 14:41:31 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"6","receiver":null,"words":null}}]; return: null
+2015-04-28 19:41:47 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428194059836","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:41:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428194059836","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:41:53 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428194059836","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:41:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428194059836","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:42:24 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428194059836","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:42:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428194059836","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:46:24 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428194616444","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:46:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428194616444","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:47:57 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428194748719","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:47:57 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428194748719","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:51:15 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428195111589","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:51:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428195111589","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:54:32 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428195428807","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:54:32 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428195428807","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 19:59:47 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428195942722","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 19:59:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428195942722","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:05:05 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428200500467","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:05:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428200500467","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:05:08 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428200500467","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:05:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428200500467","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:08:07 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428200748128","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:08:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428200748128","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:09:37 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428200933273","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:09:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428200933273","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:12:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428201204825","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:12:08 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428201204825","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:13:12 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428201309249","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:13:12 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428201309249","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:13:42 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428201309249","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:13:42 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428201309249","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:17:49 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428201745064","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:17:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428201745064","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:17:52 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428201745064","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:17:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428201745064","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:20:52 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428202048721","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:20:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428202048721","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:24:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428202423353","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:24:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428202423353","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:24:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:24:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:24:32 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428202423353","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 20:26:45 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428202642560","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:26:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428202642560","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:26:45 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428202642560","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:26:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428202642560","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:26:48 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428202642560","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 20:26:48 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428202642560","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 20:32:04 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203201357","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:32:04 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203201357","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:32:04 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203201357","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:32:04 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203201357","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:32:24 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203201357","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 20:32:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203201357","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 20:34:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203447164","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:34:53 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203447164","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:34:53 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203447164","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:34:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203447164","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:35:01 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203447164","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:35:01 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203447164","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:35:09 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203447164","msgNum":"3","receiver":null,"words":"·½·¨"}}]; return: null
+2015-04-28 20:35:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203447164","msgNum":"3","receiver":null,"words":"·½·¨"}}
+2015-04-28 20:35:16 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203447164","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 20:35:16 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203447164","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 20:36:07 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203601901","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:36:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203601901","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:36:07 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203601901","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:36:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203601901","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:36:21 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203615810","msgNum":"6","receiver":null,"words":"µÃµ½¼ªºêÎ°"}}]; return: null
+2015-04-28 20:36:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203615810","msgNum":"6","receiver":null,"words":"µÃµ½¼ªºêÎ°"}}
+2015-04-28 20:38:53 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203848294","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:38:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203848294","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:38:53 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203848294","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:38:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203848294","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:39:06 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203601901","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:39:06 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203601901","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:39:42 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203848294","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 20:39:42 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203848294","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 20:39:43 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203601901","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:39:43 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203601901","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:39:59 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203952785","msgNum":"6","receiver":null,"words":"·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 20:39:59 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203952785","msgNum":"6","receiver":null,"words":"·¨¼ªºêÎ°"}}
+2015-04-28 20:40:05 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203952785","msgNum":"5","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 20:40:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203952785","msgNum":"5","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 20:40:11 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203952785","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 20:40:11 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203952785","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 20:40:11 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203952785","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:40:11 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203952785","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:40:56 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203952785","msgNum":"3","receiver":null,"words":"·½·¨"}}]; return: null
+2015-04-28 20:40:56 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428203952785","msgNum":"3","receiver":null,"words":"·½·¨"}}
+2015-04-28 20:41:05 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428203952785","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-28 20:48:27 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428204754727","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 20:48:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428204754727","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 20:48:27 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428204754727","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:48:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428204754727","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:48:32 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428204754727","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:48:32 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428204754727","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:49:08 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428204857542","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 20:49:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428204857542","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 20:49:08 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428204857542","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 20:49:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428204857542","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 20:49:14 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428204857542","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 20:49:14 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428204857542","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 21:00:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210014131","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:00:15 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210014131","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:00:15 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210014131","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:00:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210014131","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:00:21 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210020125","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:00:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210020125","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:00:21 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210020125","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:00:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210020125","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:00:24 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210020125","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 21:00:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210020125","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 21:00:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210014131","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:00:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210014131","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:00:27 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210014131","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 21:00:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210014131","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 21:01:43 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210142250","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:01:43 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210142250","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:01:43 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210142250","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:01:43 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210142250","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:02:01 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210159772","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:02:01 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210159772","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:02:01 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210159772","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:02:01 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210159772","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:02:57 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210256703","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:02:57 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210256703","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:05 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210256703","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:04:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210256703","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:04:27 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:04:39 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:40 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:40 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:40 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:40 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210426206","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:04:50 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210256703","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 21:05:26 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210525639","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:28 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210525639","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:28 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210525639","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:29 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210525639","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:29 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210525639","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:29 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210525639","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210544235","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:05:45 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210544235","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:45 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210544235","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:05:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210544235","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:05:52 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210551025","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:05:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210551025","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:05:52 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210551025","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 21:05:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210551025","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 21:05:59 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428210551025","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 21:05:59 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428210551025","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 21:12:17 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428211216737","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 21:12:17 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428211216737","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 21:12:20 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428211216737","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:25:30 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428222527517","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:25:30 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428222527517","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 22:25:30 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:25:30 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:25:33 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:26:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428222611290","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:26:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428222611290","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 22:26:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:26:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:26:16 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:26:16 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:26:25 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428222624366","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:26:25 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428222624366","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 22:26:37 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428222624366","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 22:26:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428222624366","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 22:26:37 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:26:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:26:41 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-28 22:26:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-28 22:26:45 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:26:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 22:52:59 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428225257582","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:52:59 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428225257582","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 22:52:59 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:52:59 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:07 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428225303620","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 22:53:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428225303620","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 22:53:07 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:09 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-28 22:53:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-28 22:53:16 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"Ê¿´ó·òÊ¿´ó·ò"}}]; return: null
+2015-04-28 22:53:16 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"Ê¿´ó·òÊ¿´ó·ò"}}
+2015-04-28 22:53:19 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"Ê¿´ó·ò´óÊ¦¸µ"}}]; return: null
+2015-04-28 22:53:19 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"Ê¿´ó·ò´óÊ¦¸µ"}}
+2015-04-28 22:53:22 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"Ê¿´ó·òÊ®·Ö"}}]; return: null
+2015-04-28 22:53:22 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"Ê¿´ó·òÊ®·Ö"}}
+2015-04-28 22:53:31 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 22:53:34 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:34 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:36 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:36 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:36 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:36 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:36 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:36 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:37 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:53:37 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:53:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:54:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:54:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 22:56:34 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428225633884","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 22:56:34 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428225633884","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:56:34 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:34 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:41 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428225639861","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 22:56:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428225639861","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 22:56:41 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:45 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:45 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:46 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:46 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 22:56:48 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:48 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:49 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:52 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:52 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:56:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:56:53 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:00 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:00 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:57:11 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:11 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:57:17 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:17 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 22:57:44 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428225742266","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 22:57:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428225742266","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 22:57:44 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:57:46 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:46 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 22:57:52 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 22:57:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:11:58 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428231157768","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:11:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428231157768","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:11:58 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:11:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:12:04 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:12:04 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:14:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428231438016","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:14:39 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428231438016","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:14:39 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:14:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:14:41 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:14:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:17:02 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428231701043","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:17:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428231701043","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:17:02 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:17:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:17:03 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:17:03 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:18:47 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428231845315","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:18:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428231845315","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:18:47 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:18:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:18:48 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:18:48 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:21:09 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428232107999","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:21:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428232107999","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:21:09 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:21:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:21:10 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:21:10 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:24:50 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428232449418","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:24:50 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428232449418","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:24:50 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:24:50 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:24:53 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:24:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:28:41 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428232840397","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:28:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428232840397","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:28:41 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:28:41 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:28:42 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:28:42 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:32:07 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233206844","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:32:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233206844","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:32:07 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:32:07 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:32:09 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:32:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:34:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233410034","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:34:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233410034","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:34:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:34:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:34:18 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233417486","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:34:18 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233417486","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:34:40 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:34:40 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:38:21 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233819341","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:38:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233819341","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:38:21 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:38:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:38:26 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:38:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:38:29 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:38:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:38:34 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"µÄ¼ªºêÎ°"}}]; return: null
+2015-04-28 23:38:34 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"µÄ¼ªºêÎ°"}}
+2015-04-28 23:38:39 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 23:38:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233825085","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 23:38:39 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:38:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:38:44 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-28 23:38:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-28 23:38:51 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:38:51 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:38:52 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:38:52 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:38:54 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:38:54 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:38:55 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:38:55 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:39:06 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233905392","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-28 23:39:06 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233905392","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-28 23:39:06 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:39:06 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:39:12 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-28 23:39:12 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-28 23:39:19 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150428233917170","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-28 23:39:19 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150428233917170","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-28 23:39:19 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:39:19 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:39:25 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¶³¶¹¸¯"}}
+2015-04-28 23:39:25 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¶³¶¹¸¯"}}]; return: null
+2015-04-28 23:39:31 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¶Ëµ½¶Ë"}}]; return: null
+2015-04-28 23:39:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¶Ëµ½¶Ë"}}
+2015-04-28 23:39:38 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¶Ëµ½¶Ë"}}]; return: null
+2015-04-28 23:39:38 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"¶Ëµ½¶Ë"}}
+2015-04-28 23:39:53 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:39:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-28 23:39:55 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-28 23:39:55 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-28 23:39:56 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-28 23:39:56 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:16:17 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429071615256","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 07:16:17 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429071615256","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 07:16:17 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:16:17 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:16:24 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429071621105","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-29 07:16:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429071621105","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-29 07:16:24 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:16:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:16:27 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-29 07:16:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-29 07:16:34 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·òÊ¿´ó·ò"}}]; return: null
+2015-04-29 07:16:34 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·òÊ¿´ó·ò"}}
+2015-04-29 07:16:38 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡Êæ·þÈöµØ·½"}}]; return: null
+2015-04-29 07:16:38 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡Êæ·þÈöµØ·½"}}
+2015-04-29 07:16:44 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}]; return: null
+2015-04-29 07:16:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}
+2015-04-29 07:16:47 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}]; return: null
+2015-04-29 07:16:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}
+2015-04-29 07:16:49 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}]; return: null
+2015-04-29 07:16:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}
+2015-04-29 07:16:51 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§°¢ÊÇ·ñ"}}]; return: null
+2015-04-29 07:16:51 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§°¢ÊÇ·ñ"}}
+2015-04-29 07:16:56 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§"}}]; return: null
+2015-04-29 07:16:56 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§"}}
+2015-04-29 07:17:03 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡µ«ÊÇ·¢Éäµã·¢Ë³·á"}}]; return: null
+2015-04-29 07:17:03 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡µ«ÊÇ·¢Éäµã·¢Ë³·á"}}
+2015-04-29 07:18:35 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"·½·¨"}}]; return: null
+2015-04-29 07:18:35 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"·½·¨"}}
+2015-04-29 07:18:57 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-29 07:18:57 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-29 07:19:23 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:19:23 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:19:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:19:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:31:54 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429073153333","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 07:31:54 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429073153333","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 07:31:54 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:31:54 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:32:02 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429073158257","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-29 07:32:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429073158257","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-29 07:32:02 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:32:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:32:05 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-29 07:32:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-29 07:32:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-29 07:32:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-29 07:32:15 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µ±µØ"}}]; return: null
+2015-04-29 07:32:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µ±µØ"}}
+2015-04-29 07:32:18 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡¶¼·¢Ë³·áµÄ"}}]; return: null
+2015-04-29 07:32:18 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡¶¼·¢Ë³·áµÄ"}}
+2015-04-29 07:32:21 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¢Ë¹¶Ù·¢Ë³·á"}}]; return: null
+2015-04-29 07:32:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¢Ë¹¶Ù·¢Ë³·á"}}
+2015-04-29 07:32:24 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò´óÊ¦¸µ"}}]; return: null
+2015-04-29 07:32:24 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"Ê¿´ó·ò´óÊ¦¸µ"}}
+2015-04-29 07:32:26 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡´ò·¢Ê¿´ó·ò"}}]; return: null
+2015-04-29 07:32:26 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"°¡´ò·¢Ê¿´ó·ò"}}
+2015-04-29 07:32:31 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:32:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:32:33 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:32:33 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:32:34 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:32:34 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:32:35 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:32:35 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:32:37 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:32:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:34:58 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429073457648","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 07:34:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429073457648","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 07:34:58 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:34:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:35:05 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429073503455","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-29 07:35:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429073503455","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-29 07:35:05 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:35:05 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:35:09 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"ÊÝÉí´ó·¨"}}]; return: null
+2015-04-29 07:35:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"ÊÝÉí´ó·¨"}}
+2015-04-29 07:35:16 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"°¢µÀ·ò"}}]; return: null
+2015-04-29 07:35:16 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"°¢µÀ·ò"}}
+2015-04-29 07:35:19 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°¢ÈýµØ·½"}}]; return: null
+2015-04-29 07:35:19 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°¢ÈýµØ·½"}}
+2015-04-29 07:35:20 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°®µÄÉ«·Å"}}]; return: null
+2015-04-29 07:35:20 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°®µÄÉ«·Å"}}
+2015-04-29 07:35:29 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:35:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:35:31 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:35:31 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:37:03 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429073701548","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 07:37:03 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429073701548","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 07:37:03 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:37:03 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:37:09 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429073706111","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-29 07:37:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429073706111","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-29 07:37:09 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:37:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:37:13 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°¢µÀ·ò"}}]; return: null
+2015-04-29 07:37:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°¢µÀ·ò"}}
+2015-04-29 07:37:19 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"°®µÄÉ«·Å"}}]; return: null
+2015-04-29 07:37:19 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"°®µÄÉ«·Å"}}
+2015-04-29 07:37:22 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§fdaÊ¿´ó·ò"}}]; return: null
+2015-04-29 07:37:22 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"2","receiver":"¼ªºêÎ°","words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§fdaÊ¿´ó·ò"}}
+2015-04-29 07:37:27 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§ "}}]; return: null
+2015-04-29 07:37:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"·½·¨¼ªºêÎ°","words":"°¡ÊÖ¶¯·§ÊÖ¶¯·§ "}}
+2015-04-29 07:37:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 07:37:37 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 07:37:39 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:37:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 07:37:40 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 07:37:40 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 08:02:01 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080158688","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:02:01 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080158688","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:02:10 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080158688","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:02:10 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080158688","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:06:00 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:06:00 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:06:09 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:06:09 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:06:15 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:06:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:06:22 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:06:22 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:06:32 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:06:32 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080555925","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:07:49 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429080747728","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:07:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429080747728","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:07:49 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:07:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:07:51 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 08:07:51 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 08:10:18 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081010480","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:10:18 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081010480","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:10:32 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081010480","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:10:32 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081010480","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:11:39 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081137969","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:11:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081137969","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:11:39 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:11:39 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:11:42 INFO  [pool-1-thread-4] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 08:11:42 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 08:14:29 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081423560","msgNum":"5","receiver":null,"words":"Ò¶ÄáÂê"}}]; return: null
+2015-04-29 08:14:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081423560","msgNum":"5","receiver":null,"words":"Ò¶ÄáÂê"}}
+2015-04-29 08:14:38 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081423560","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:14:38 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081423560","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:14:47 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081423560","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:14:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081423560","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:15:44 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081423560","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:15:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081423560","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:15:44 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:15:44 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:15:48 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:15:48 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:15:58 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081553843","msgNum":"6","receiver":null,"words":"Ò¶ÄáÂê"}}]; return: null
+2015-04-29 08:15:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081553843","msgNum":"6","receiver":null,"words":"Ò¶ÄáÂê"}}
+2015-04-29 08:15:58 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:15:58 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:16:02 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:16:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:16:08 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}]; return: null
+2015-04-29 08:16:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"µÃµ½"}}
+2015-04-29 08:16:13 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":""}}]; return: null
+2015-04-29 08:16:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":""}}
+2015-04-29 08:16:16 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"°®µÄÉ«·Å"}}]; return: null
+2015-04-29 08:16:16 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"°®µÄÉ«·Å"}}
+2015-04-29 08:16:17 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":""}}]; return: null
+2015-04-29 08:16:17 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":""}}
+2015-04-29 08:16:19 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":""}}]; return: null
+2015-04-29 08:16:19 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":""}}
+2015-04-29 08:16:21 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"¶Ëµ½¶Ë"}}]; return: null
+2015-04-29 08:16:21 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"¶Ëµ½¶Ë"}}
+2015-04-29 08:16:23 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"¶Ëµ½¶Ë"}}]; return: null
+2015-04-29 08:16:23 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"¶Ëµ½¶Ë"}}
+2015-04-29 08:16:29 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"·½·¨"}}]; return: null
+2015-04-29 08:16:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"2","receiver":"Ò¶ÄáÂê","words":"·½·¨"}}
+2015-04-29 08:16:33 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"Ê¿´ó·ò"}}]; return: null
+2015-04-29 08:16:33 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"2","receiver":"¼ªºêÎ°","words":"Ê¿´ó·ò"}}
+2015-04-29 08:16:42 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}]; return: null
+2015-04-29 08:16:42 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"3","receiver":null,"words":"µãµãµÎµÎ"}}
+2015-04-29 08:16:48 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}]; return: null
+2015-04-29 08:16:48 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"3","receiver":null,"words":"µÃµ½"}}
+2015-04-29 08:16:53 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 08:16:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 08:16:55 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:16:55 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:17:01 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 08:17:01 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 08:17:15 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081714575","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:17:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081714575","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:17:15 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:17:15 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:17:20 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081719293","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:17:20 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081719293","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:17:23 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081719293","msgNum":"6","receiver":null,"words":"¼ªµÄºêÎ°"}}]; return: null
+2015-04-29 08:17:23 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081719293","msgNum":"6","receiver":null,"words":"¼ªµÄºêÎ°"}}
+2015-04-29 08:17:29 INFO  [pool-1-thread-5] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081719293","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:17:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081719293","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:18:43 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 08:18:43 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 08:18:47 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429081846386","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 08:18:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429081846386","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 08:18:47 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 08:18:47 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 08:18:49 INFO  [pool-1-thread-6] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 08:18:49 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 09:22:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429092211435","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 09:22:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429092211435","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 09:22:13 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:13 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:22:17 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:17 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 09:22:25 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429092223957","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 09:22:25 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429092223957","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 09:22:25 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:25 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:22:29 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429092228012","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 09:22:29 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429092228012","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 09:22:32 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429092228012","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 09:22:32 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429092228012","msgNum":"6","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 09:22:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429092228012","msgNum":"6","receiver":null,"words":"Ò¶ÄáÂê"}}
+2015-04-29 09:22:37 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429092228012","msgNum":"6","receiver":null,"words":"Ò¶ÄáÂê"}}]; return: null
+2015-04-29 09:22:37 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:37 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:22:40 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:40 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:22:46 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429092245374","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}
+2015-04-29 09:22:46 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429092245374","msgNum":"6","receiver":null,"words":"·½·¨¼ªºêÎ°"}}]; return: null
+2015-04-29 09:22:46 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:46 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:22:50 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:50 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:22:53 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}]; return: null
+2015-04-29 09:22:53 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"1","receiver":null,"words":null}}
+2015-04-29 09:23:02 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 09:23:02 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 09:23:08 INFO  [pool-1-thread-3] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 09:23:08 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"·½·¨¼ªºêÎ°","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 09:23:11 INFO  [pool-1-thread-2] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"4","receiver":null,"words":null}}]; return: null
+2015-04-29 09:23:11 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"Ò¶ÄáÂê","msgNum":"4","receiver":null,"words":null}}
+2015-04-29 10:23:20 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429102312522","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 10:23:20 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429102312522","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
+2015-04-29 10:23:27 INFO  [pool-1-thread-1] LogInvoHandler :: ____invoke method: addMsg; args: [{"msg":{"publisher":"20150429102312522","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}]; return: null
+2015-04-29 10:23:27 INFO  [Thread-1       ] LogInvoHandler :: ____invoke method: getMsg; args: null; return: {"msg":{"publisher":"20150429102312522","msgNum":"5","receiver":null,"words":"¼ªºêÎ°"}}
