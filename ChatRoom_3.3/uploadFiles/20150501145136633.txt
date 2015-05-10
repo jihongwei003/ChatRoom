@@ -1,0 +1,10 @@
+
+  CREATE SCHEMA IF NOT EXISTS `chat_room` DEFAULT CHARACTER SET utf8 ; USE
+  `chat_room` ;
+  
+  -- ----------------------------------------------------- -- Table
+  `chat_room`.`user` -- -----------------------------------------------------
+  CREATE TABLE IF NOT EXISTS `chat_room`.`user` ( `user_id` INT(11) NOT NULL
+  AUTO_INCREMENT, `user_name` VARCHAR(45) NULL DEFAULT NULL, PRIMARY KEY
+  (`user_id`)) ENGINE = InnoDB DEFAULT CHARACTER SET = utf8;
+ 
